@@ -1,9 +1,12 @@
+> ⚠️ App demos are offline: My secondary laptop which I was using as a home server is no longer with me, so most of my project demos are offline until I buy a VPS and migrate my project demos there.
+
 ## 💭 About Me
+👋 hi i'm Beytullah<br>
 💻 Software Development student<br>
 🌐 Full Stack Web Developer<br>
-💚 Android Developer<br>
+💚 Mobile Application Developer<br>
 📘 Istanbul Aydin University<br>
-📐 Estonian Entrepreneurship University of Applied Sciences<br>
+📐 Estonian Entrepreneurship University of Applied Sciences (Erasmus+ Mobility)<br>
 🎓 Expected Graduation: July 2026
 
 
